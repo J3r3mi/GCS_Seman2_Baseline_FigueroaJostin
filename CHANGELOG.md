@@ -2,6 +2,13 @@
 
 Todos los cambios importantes realizados en el proyecto se registrarán en este archivo.
 
+## [Unreleased]
+
+### Cambios
+
+- Ampliación de la descripción de los componentes principales de la arquitectura del sistema en el documento `SDD_v1.md`.
+- Documentación de la comunicación entre la aplicación cliente, la API REST y la base de datos SQL Server.
+
 ## [v1.0] - Baseline inicial
 
 ### Agregado
