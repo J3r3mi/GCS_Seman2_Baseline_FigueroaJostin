@@ -48,3 +48,21 @@ La comunicación entre los componentes se realiza de la siguiente manera:
 |       Base de Datos         |
 |          SQL Server         |
 +-----------------------------+
+---
+## 3. Componentes principales
+
+### 3.1 Aplicación cliente
+
+La aplicación cliente está desarrollada utilizando Angular e Ionic. Su función principal es proporcionar la interfaz de usuario para que los usuarios puedan iniciar sesión y gestionar sus contactos.
+
+### 3.2 API REST
+
+La API REST está desarrollada con .NET y se encarga de procesar las solicitudes provenientes de la aplicación cliente. La API proporciona los servicios necesarios para la autenticación de usuarios y la gestión de contactos.
+
+### 3.3 Base de datos
+
+La información del sistema se almacena en una base de datos SQL Server. La base de datos permite gestionar la información relacionada con los usuarios y los contactos registrados en el sistema.
+
+### 3.4 Comunicación entre componentes
+
+La aplicación cliente se comunica con la API REST mediante solicitudes HTTP. La API procesa las solicitudes y realiza las operaciones necesarias sobre la base de datos SQL Server.
