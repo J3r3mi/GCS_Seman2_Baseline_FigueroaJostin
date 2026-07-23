@@ -1,0 +1,71 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Crear cuenta
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content class="ion-padding">
+
+<h2 style="text-align:center;">
+Crear una nueva cuenta
+</h2>
+
+<p style="text-align:center; color:gray;">
+Complete la información solicitada
+</p>
+
+
+<ion-item>
+
+<ion-input
+label="Cédula"
+[(ngModel)]="cedula">
+</ion-input>
+
+</ion-item>
+
+
+<ion-item>
+
+<ion-input
+label="Nombre"
+[(ngModel)]="nombre">
+</ion-input>
+
+</ion-item>
+
+
+<ion-item>
+
+<ion-input
+label="Correo"
+[(ngModel)]="correo">
+</ion-input>
+
+</ion-item>
+
+
+<ion-item>
+
+<ion-input
+type="password"
+label="Contraseña"
+[(ngModel)]="contrasena">
+</ion-input>
+
+</ion-item>
+
+
+<ion-button
+expand="block"
+(click)="registrar()">
+
+Crear cuenta
+
+</ion-button>
+
+
+</ion-content>

@@ -1,0 +1,61 @@
+ion-toolbar{
+
+    --background:#1565C0;
+    --color:white;
+
+}
+
+
+ion-content{
+
+    --background:#F4F7FC;
+
+}
+
+
+.titulo{
+
+    text-align:center;
+
+    font-size:32px;
+
+    font-weight:bold;
+
+    color:#1565C0;
+
+    margin-top:40px;
+
+}
+
+
+.subtitulo{
+
+    text-align:center;
+
+    color:gray;
+
+    margin-bottom:25px;
+
+}
+
+
+ion-item{
+
+    border-radius:12px;
+
+    margin-top:10px;
+
+}
+
+
+ion-button{
+
+    --background:#1565C0;
+
+    --border-radius:12px;
+
+    font-weight:bold;
+
+    margin-top:20px;
+
+}

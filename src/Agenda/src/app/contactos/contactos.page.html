@@ -1,0 +1,122 @@
+<ion-header>
+
+  <ion-toolbar>
+
+    <ion-title>
+      Mis contactos
+    </ion-title>
+
+  </ion-toolbar>
+
+</ion-header>
+
+
+<ion-content class="ion-padding">
+
+  <img
+    src="assets/icon/contactos.png"
+    class="logo-contactos">
+
+  <h2 style="text-align:center;">
+    Agenda de contactos
+  </h2>
+
+  <p style="text-align:center; color:gray;">
+    Administre sus contactos
+  </p>
+
+
+  <ion-item>
+
+    <ion-input
+      label="Nombre"
+      placeholder="Ingrese el nombre"
+      [(ngModel)]="nombre">
+    </ion-input>
+
+  </ion-item>
+
+
+  <ion-item>
+
+    <ion-input
+      label="Teléfono"
+      placeholder="Ingrese el teléfono"
+      [(ngModel)]="telefono">
+    </ion-input>
+
+  </ion-item>
+
+
+  <ion-item>
+
+    <ion-input
+      label="Correo"
+      placeholder="Ingrese el correo"
+      [(ngModel)]="correo">
+    </ion-input>
+
+  </ion-item>
+
+
+  <ion-button
+    expand="block"
+    (click)="contactoEditar ? actualizar() : agregar()">
+
+    {{ contactoEditar ? 'Actualizar contacto' : 'Agregar contacto' }}
+
+  </ion-button>
+
+
+  <h3 style="margin-top:25px; text-align:center;">
+    Lista de contactos
+  </h3>
+
+
+  <ion-list>
+
+    <ion-item *ngFor="let contacto of contactos">
+
+      <ion-avatar slot="start">
+
+        <img
+          src="assets/icon/persona.png"
+          alt="Contacto">
+
+      </ion-avatar>
+
+      <ion-label>
+
+        <h2>{{ contacto.nombre }}</h2>
+
+        <p>{{ contacto.telefono }}</p>
+
+        <p>{{ contacto.correo }}</p>
+
+      </ion-label>
+
+
+      <ion-button
+        color="primary"
+        fill="outline"
+        (click)="editar(contacto)">
+
+        Editar
+
+      </ion-button>
+
+
+      <ion-button
+        color="danger"
+        fill="outline"
+        (click)="eliminar(contacto.idContacto)">
+
+        Eliminar
+
+      </ion-button>
+
+    </ion-item>
+
+  </ion-list>
+
+</ion-content>

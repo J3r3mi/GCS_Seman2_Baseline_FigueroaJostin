@@ -1,0 +1,75 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>
+      Agenda de Contactos
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <h2 class="ion-text-center">
+    <img
+  src="assets/icon/Icon.png"
+  class="logo">
+    Bienvenido
+  </h2>
+
+  <ion-item>
+    <ion-label position="stacked">
+      Cédula
+    </ion-label>
+
+    <ion-input
+      [(ngModel)]="cedula"
+      type="text"
+      placeholder="Ingrese su cédula">
+    </ion-input>
+
+  </ion-item>
+
+  <ion-item>
+
+    <ion-label position="stacked">
+      Contraseña
+    </ion-label>
+
+    <ion-input
+      [(ngModel)]="contrasena"
+      type="password"
+      placeholder="Ingrese su contraseña">
+    </ion-input>
+
+  </ion-item>
+
+  <br>
+
+  <ion-button
+    expand="block"
+    (click)="ingresar()">
+
+    Ingresar
+
+  </ion-button>
+
+  <br>
+
+  <ion-button
+    fill="clear"
+    expand="block"
+    (click)="crearCuenta()">
+
+    Crear cuenta
+
+  </ion-button>
+
+  <ion-button
+    fill="clear"
+    expand="block"
+    (click)="recuperarClave()">
+
+    Recuperar clave
+
+  </ion-button>
+
+</ion-content>

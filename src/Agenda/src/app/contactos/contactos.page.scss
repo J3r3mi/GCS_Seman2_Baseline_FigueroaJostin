@@ -1,0 +1,53 @@
+ion-toolbar{
+  --background:#1565C0;
+  --color:white;
+}
+
+ion-content{
+  --background:#F4F7FC;
+}
+
+ion-item{
+  --color:black;
+  margin-top:10px;
+  border-radius:12px;
+}
+
+ion-button{
+  --border-radius:12px;
+}
+
+ion-input{
+  --background:white;
+  --color:black;
+  --placeholder-color:gray;
+  --highlight-color-focused:#1565C0;
+
+  border-radius:12px;
+  margin-top:10px;
+}
+
+.logo-contactos{
+
+    width:90px;
+
+    height:90px;
+
+    display:block;
+
+    margin:20px auto;
+
+}
+
+ion-avatar{
+
+    width:55px;
+    height:55px;
+
+}
+
+ion-avatar img{
+
+    border-radius:50%;
+
+}

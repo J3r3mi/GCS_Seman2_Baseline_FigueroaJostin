@@ -1,0 +1,37 @@
+ion-toolbar{
+
+    --background:#1565C0;
+    --color:white;
+
+}
+
+ion-content{
+
+    --background:#F4F7FC;
+
+    padding:20px;
+
+}
+
+ion-button{
+
+    --background:#1976D2;
+
+    --border-radius:15px;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    margin-top:25px;
+
+}
+
+.logo-menu{
+
+    width:90px;
+    height:90px;
+    display:block;
+    margin:20px auto;
+
+}

@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\controllers\\contactoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|c:\\users\\hp\\onedrive\\documentos\\agendacontactosapi\\agendacontactosapi\\agendacontactosapi\\data\\agendacontactoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9796EB09-995E-4CDF-97B7-8106AF9F4DF5}|AgendaContactosAPI\\AgendaContactosAPI.csproj|solutionrelative:agendacontactosapi\\data\\agendacontactoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AgendaContactosAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-08T23:03:53.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactosController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Controllers\\ContactosController.cs",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\Controllers\\ContactosController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Controllers\\ContactosController.cs",
+              "RelativeToolTip": "AgendaContactosAPI\\Controllers\\ContactosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:48:38.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AgendaContactosAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T00:42:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Program.cs",
+              "RelativeToolTip": "AgendaContactosAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T00:40:54.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendaContactosContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Data\\AgendaContactosContext.cs",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\Data\\AgendaContactosContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Data\\AgendaContactosContext.cs",
+              "RelativeToolTip": "AgendaContactosAPI\\Data\\AgendaContactosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T00:40:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Models\\Contacto.cs",
+              "RelativeToolTip": "AgendaContactosAPI\\Models\\Contacto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T00:39:16.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "AgendaContactosAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T00:39:03.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AgendaContactosAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documentos\\AgendaContactosAPI\\AgendaContactosAPI\\AgendaContactosAPI\\appsettings.json",
+              "RelativeToolTip": "AgendaContactosAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T00:34:37.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

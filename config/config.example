@@ -1,0 +1,16 @@
+# Configuración de ejemplo del Sistema de Gestión de Contactos Agenda
+
+# URL de la API
+API_URL=http://localhost:5000/api
+
+# Nombre de la aplicación
+APP_NAME=Agenda
+
+# Entorno de ejecución
+ENVIRONMENT=development
+
+# Configuración de base de datos
+DB_SERVER=localhost
+DB_NAME=AgendaContactos
+DB_USER=usuario_ejemplo
+DB_PASSWORD=contraseña_ejemplo
