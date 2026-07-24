@@ -69,3 +69,15 @@ El sistema deberá mantener una comunicación adecuada entre la aplicación clie
 Este documento corresponde a la versión inicial de los requisitos del sistema y forma parte de la línea base `v1.0`.
 
 Los requisitos definidos en esta versión representan el alcance aprobado para la versión inicial del sistema. Cualquier nuevo requisito o modificación posterior deberá registrarse y gestionarse mediante el proceso de control de cambios establecido en el repositorio.
+
+### REQ-007: Gestión de búsqueda de contactos
+
+**Descripción:**  
+El sistema deberá permitir al usuario buscar contactos registrados mediante el nombre o apellido del contacto.
+
+**Prioridad:** Media
+
+**Tipo:** Requisito funcional
+
+**Criterio de aceptación:**  
+El sistema deberá mostrar los contactos que coincidan con el criterio de búsqueda ingresado por el usuario y mostrar un mensaje cuando no existan coincidencias.
