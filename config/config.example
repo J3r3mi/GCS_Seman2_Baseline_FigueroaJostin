@@ -1,16 +1,45 @@
-# Configuración de ejemplo del Sistema de Gestión de Contactos Agenda
+# ==========================================
+# Configuración de ejemplo
+# Sistema de Gestión de Contactos Agenda
+# ==========================================
 
-# URL de la API
+# IMPORTANTE:
+# Este archivo es únicamente un ejemplo de configuración.
+# No incluir contraseñas, claves privadas ni información sensible.
+
+# ==========================================
+# Configuración de la API
+# ==========================================
+
 API_URL=http://localhost:5000/api
 
-# Nombre de la aplicación
-APP_NAME=Agenda
+# ==========================================
+# Configuración de la base de datos
+# ==========================================
 
-# Entorno de ejecución
-ENVIRONMENT=development
-
-# Configuración de base de datos
 DB_SERVER=localhost
 DB_NAME=AgendaContactos
 DB_USER=usuario_ejemplo
 DB_PASSWORD=contraseña_ejemplo
+
+# ==========================================
+# Configuración del entorno
+# ==========================================
+
+ENVIRONMENT=Development
+
+# ==========================================
+# Configuración de seguridad
+# ==========================================
+
+JWT_SECRET=clave_secreta_de_ejemplo
+
+# ==========================================
+# Notas
+# ==========================================
+
+# Reemplazar los valores de ejemplo por los valores
+# correspondientes al entorno de ejecución.
+#
+# No subir archivos que contengan credenciales reales
+# o información sensible al repositorio.
