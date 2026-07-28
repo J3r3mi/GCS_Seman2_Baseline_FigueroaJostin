@@ -18,6 +18,9 @@ Este repositorio funciona como depósito de elementos de configuración del proy
 - `scripts`: Scripts auxiliares del proyecto.
 - `README.md`: Documentación general del repositorio.
 - `CHANGELOG.md`: Registro de cambios importantes del proyecto.
+- `docs/Quality`: Modelo de calidad del software.
+- `docs/Lifecycle`: Análisis del impacto de cambios en el ciclo de desarrollo.
+- `CM_PLAN.md`: Plan de Gestión de Configuración y Elementos de Configuración.
 
 ## Tecnologías utilizadas
 
@@ -70,6 +73,7 @@ La Baseline v1.0 incluye:
 - Estructura inicial de pruebas.
 - Documentación del proyecto.
 - Registro de cambios.
+
 
 La línea base será identificada mediante el tag Git `v1.0` y publicada como un Release en GitHub.
 
