@@ -81,3 +81,12 @@ El sistema deberá permitir al usuario buscar contactos registrados mediante el 
 
 **Criterio de aceptación:**  
 El sistema deberá mostrar los contactos que coincidan con el criterio de búsqueda ingresado por el usuario y mostrar un mensaje cuando no existan coincidencias.
+
+### RNF-003: Tiempo de respuesta en búsquedas
+
+El sistema deberá responder las búsquedas frecuentes de contactos en un tiempo menor o igual a 2 segundos en al menos el 95% de las operaciones realizadas bajo condiciones normales de funcionamiento.
+
+**Relacionado con:** REQ-007: Gestión de búsqueda de contactos.
+
+**Criterio de aceptación:**  
+En una prueba de rendimiento con búsquedas frecuentes de contactos, al menos el 95% de las operaciones deberá completarse en un tiempo menor o igual a 2 segundos.
