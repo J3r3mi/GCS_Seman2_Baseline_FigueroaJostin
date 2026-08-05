@@ -34,6 +34,13 @@ ENVIRONMENT=Development
 
 JWT_SECRET=clave_secreta_de_ejemplo
 
+# CR-004 - Cambio de configuración de seguridad
+# Reducción del tiempo de expiración de tokens
+# y habilitación de rotación de llaves.
+
+JWT_EXPIRATION_TIME=1h
+JWT_KEY_ROTATION=true
+
 # ==========================================
 # Notas
 # ==========================================

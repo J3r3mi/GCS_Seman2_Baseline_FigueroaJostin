@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaContactosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30735a751929c39ab86d97bb866fd13133ff8bc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33c3d4aaa70d0c4f97a76b1bafd65b43cfbbc665")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaContactosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaContactosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
